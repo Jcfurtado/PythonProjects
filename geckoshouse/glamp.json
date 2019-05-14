@@ -1,0 +1,9 @@
+{
+  "lamps": {
+    "uv": "uv.value()",
+    "uva": "uva.value()",
+    "led": "rgb.value()",
+    "h_day": "hday.value()",
+    "h_night": "hnight.value()"
+  }
+}
